@@ -1,0 +1,1 @@
+This repository is forked from the official daily snapshot MITgcm_ss_20160921.tar.gz available at http://mitgcm.org/download/daily_snapshot/. Its purpose is to house issues, work, and changes related to supporting IBM POWER8 architecture.
